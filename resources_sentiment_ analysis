@@ -1,0 +1,5 @@
+     Resources used in this project are :
+NLTK Library: https://www.nltk.org/
+TextBlob Library: https://textblob.readthedocs.io/en/dev/
+VADER Library: https://github.com/cjhutto/vaderSentiment
+BERT Library: https://github.com/huggingface/transformers
