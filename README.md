@@ -25,3 +25,4 @@ Use techniques like averaging or summing to aggregate the sentiment scores.
 #Evaluation:
 Evaluate the performance of the sentiment analysis model using metrics such as accuracy, precision, recall, and F1-score.
 Compare the performance of different models and techniques to select the best approach for the task.
+ The main result which is approached by this project is we have to know the main sentiments of the customers by its reviews either it is positive or its negative.
